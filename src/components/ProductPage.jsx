@@ -37,7 +37,7 @@ const ProductPage = () => {
       {/* Hero Section with Background */}
       <div className="relative h-[300px] bg-cover bg-center">
         {/* Breadcrumb */}
-        <div className="absolute top-4 left-4 text-white">
+        <div className="absolute top-4 left-4 text-blue-500">
           <div className="flex items-center space-x-2 text-sm">
             <Link to="/" className="hover:text-blue-300">
               Home
