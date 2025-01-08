@@ -1,7 +1,14 @@
-import React from "react";
 import { Button } from "@nextui-org/react";
 import eveMont from "../assets/eveMont.jpg";
 
+/**
+ * HeroSection is a React functional component providing a visually engaging
+ * hero section with a background image, overlay, and content. It features
+ * a centered title, description, and interactive buttons, along with a
+ * statistics section showcasing key metrics. This component serves as a
+ * promotional banner for Everest Electronics, highlighting its services
+ * and offerings.
+ */
 const HeroSection = () => {
   return (
     <div

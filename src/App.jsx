@@ -1,4 +1,3 @@
-import { Input } from "@nextui-org/react";
 import NavbarComponent from "./components/NavbarComponent";
 import HeroSection from "./components/HeroSection";
 import ProductPage from "./components/ProductPage";
